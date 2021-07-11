@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning js react
 <!--
 **Leenhazaimeh/Leenhazaimeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
